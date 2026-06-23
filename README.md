@@ -8,7 +8,7 @@ A modern and responsive portfolio website built using **React.js** and **Vite** 
 
 ## 💻 GitHub Repository
 
-**Repository:** YOUR_GITHUB_LINK
+**Repository:** https://github.com/SnehasSingh177/sneha-portfolio.git 
 
 ---
 
