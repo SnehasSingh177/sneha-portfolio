@@ -4,7 +4,7 @@ A modern and responsive portfolio website built using **React.js** and **Vite** 
 
 ## 🌐 Live Demo
 
-**Website:** snehaaa-portfolio.vercel.app
+**Website:**https://snehaaa-portfolio.vercel.app/
 
 ## 💻 GitHub Repository
 
